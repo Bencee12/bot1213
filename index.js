@@ -1731,5 +1731,3 @@ bot.on("guildMemberRemove", member => {
 })
 
 //Asd
-
-bot.login('NzM3MjQzODQwMjg0NDU5MDE5.Xx6h1A.1WlCtu4yuJlcj8QYagTKOyQSKAo');
